@@ -7,8 +7,9 @@
 ## 相亭空域 1.20+ <a href="#lgls-1.20+" id="lgls-1.20+"></a>
 
 * [📑 指令列表](lgls-1.20+/Commands.md)
-* [➕ 插件教學 (黏液科技、...)](lgls-1.20+/Plugins/README.md)
-  * [黏液附加](lgls-1.20+/Plugins/nian-ye-fu-jia.md)
+* [➕ 插件教學 (黏液科技、...)](lgls-1.20+/feature/README.md)
+  * [黏液附加](lgls-1.20+/feature/nian-ye-fu-jia.md)
+  * [語音時數](lgls-1.20+/feature/voicepoint.md)
 * [⚔ 副本](lgls-1.20+/Dungeon/README.md)
   * [🍂 怪物掉落物](lgls-1.20+/Dungeon/mod-drop.md)
 
