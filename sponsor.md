@@ -72,6 +72,7 @@ description: 全部贊助將會用作維持伺服器營運
 » 使用 /feed - 回滿飽食度
 » 使用 /heal - 回滿血量及解除藥水效果
 » 使用 /craft - 打開合成台
+» 使用 /nickname - 更改顯示的ID
 » 使用 /cartographytable - 打開製圖台
 » 使用 /smithingtable - 打開鍛造台
 ```
