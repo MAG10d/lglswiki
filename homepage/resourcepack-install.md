@@ -16,6 +16,8 @@ description: 兩個伺服器均有各自的材質包，啟用方式一樣。
 
 {% embed url="https://cdn.discordapp.com/attachments/984031373071368222/993879566739329084/unknown.png" %}
 
-四、把**`語言`**內的**`強制使用 Unicode 字體：`** 選成 **`關閉`**
+~~四、把**`語言`**內的**`強制使用 Unicode 字體：`** 選成 **`關閉`**~~
+
+**Minecraft 現在更新完好像不用這個步驟**
 
 {% embed url="https://cdn.discordapp.com/attachments/984031373071368222/993880427058172034/unknown.png" %}
