@@ -6,6 +6,7 @@
 
 ## 相亭空域 1.20+ <a href="#skyblock" id="skyblock"></a>
 
+* [⭐ 新手指南](skyblock/guide.md)
 * [📑 指令列表](skyblock/Commands.md)
 * [➕ 插件教學 (黏液科技、...)](skyblock/feature/README.md)
   * [黏液附加](skyblock/feature/nian-ye-fu-jia.md)
