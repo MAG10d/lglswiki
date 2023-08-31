@@ -13,7 +13,7 @@
   * [語音時數](skyblock/feature/voicepoint.md)
 * [⚔ 副本](skyblock/Dungeon/README.md)
   * [🍂 怪物掉落物](skyblock/Dungeon/mod-drop.md)
-* [❓ 常見問題](skyblock/chang-jian-wen-ti.md)
+* [❓ 常見問題](skyblock/faq.md)
 
 ## 相亭生存 1.19 <a href="#LGLS-1.19+" id="LGLS-1.19+"></a>
 
