@@ -20,6 +20,12 @@ description: 全部贊助將會用作維持伺服器營運
 
 ### 人工處理：請到 [Discord](https://discord.gg/5vS4vdf) 私信 [@magd\_](https://discordapp.com/users/528891881577381899)
 
+#### 加密貨幣
+
+```
+* USDT、USDC
+```
+
 **台灣 (最低 300**點**)**
 
 ```

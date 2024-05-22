@@ -11,7 +11,7 @@
 * [➕ 插件教學 (黏液科技、...)](skyblock/feature/README.md)
   * [黏液附加](skyblock/feature/nian-ye-fu-jia.md)
   * [語音時數](skyblock/feature/voicepoint.md)
-* [⚔ 副本](skyblock/Dungeon/README.md)
+* [⚔️ 副本](skyblock/Dungeon/README.md)
   * [🍂 怪物掉落物](skyblock/Dungeon/mod-drop.md)
 * [❓ 常見問題](skyblock/faq.md)
 
@@ -19,7 +19,7 @@
 
 * [📑 指令列表](LGLS-1.19+/Commands.md)
 * [➕ 插件教學 (領地飛行、鞘翅盔甲...)](LGLS-1.19+/Plugins.md)
-* [🖼 截圖](LGLS-1.19+/Pitcures.md)
+* [🖼️ 截圖](LGLS-1.19+/Pitcures.md)
 
 ***
 
