@@ -20,13 +20,13 @@ description: 全部贊助將會用作維持伺服器營運
 
 ### 人工處理：請到 [Discord](https://discord.gg/5vS4vdf) 私信 [@magd\_](https://discordapp.com/users/528891881577381899)
 
-#### 加密貨幣
+#### 加密貨幣 (八五折優惠)
 
 ```
-* USDT、USDC
+* USDT、USDC、及其他
 ```
 
-**台灣 (最低 300**點**)**
+**台灣**
 
 ```
 * 8591 https://www.8591.com.tw/v3/mall/detail/2404666914
@@ -47,7 +47,7 @@ description: 全部贊助將會用作維持伺服器營運
 
 <details>
 
-<summary>一階 (200點)</summary>
+<summary>一階 (400點)</summary>
 
 
 
